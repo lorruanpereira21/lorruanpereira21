@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**lorruanpereira21/lorruanpereira21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Bem-vindo(a) ao meu GitHub
 
-Here are some ideas to get you started:
+Lorruan Pereira, sou de Brasília – DF 📍 Estudante de Análise e Desenvolvimento de Sistemas na UDF 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Sobre mim
+
+🌱 Sempre aprendendo na área de tecnologia 💻 Conhecimentos básicos: HTML, CSS, JavaScript, SQL e C 📚 Estudo na faculdade e em cursos online 🎯 Buscando construir carreira como desenvolvedora
+
+🔧 O que você encontra aqui
+
+📁 Projetos de estudo 📝 Exercícios da faculdade 🧪 Pequenos testes com novas tecnologias 📂 Repositórios organizados pela minha evolução
+
+📫 Contato
+
+Se quiser trocar ideias ou colaborar em algo, estou por aqui! 😊�
