@@ -6,7 +6,7 @@ Lorruan Pereira, sou de Brasília – DF 📍 Estudante de Análise e Desenvolvi
 
 🚀 Sobre mim
 
-🌱 Sempre aprendendo na área de tecnologia 💻 Conhecimentos básicos: HTML, CSS, JavaScript, SQL e C 📚 Estudo na faculdade e em cursos online 🎯 Buscando construir carreira como desenvolvedora
+🌱 Sempre aprendendo na área de tecnologia 💻 Conhecimentos básicos: HTML, CSS, JavaScript, SQL e C 📚 Estudo na faculdade e em cursos online 🎯 Buscando construir carreira como desenvolvedor
 
 🔧 O que você encontra aqui
 
